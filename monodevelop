@@ -1,0 +1,11 @@
+#!/bin/bash
+nologo="$1"
+sln="$2"
+fileLine="$3"
+file=`echo "$fileLine" | cut -d';' -f1`
+line=`echo "$fileLine" | cut -d';' -f2`
+if [ $line = "-1" ]; then
+line=0
+fi
+monodevelop "$sln" "$file;$line"
+

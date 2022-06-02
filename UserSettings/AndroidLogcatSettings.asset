@@ -1,0 +1,137 @@
+{
+    "m_SelectedDeviceId": "3300413ac794935f",
+    "m_SelectedPackage": {
+        "deviceId": "3300413ac794935f",
+        "name": "com.GreenDimension.Ecoevoluciona",
+        "processId": 25974,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 4719,
+            "exited": true
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 6584,
+            "exited": true
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.unity3d.mobileremote",
+            "processId": 4480,
+            "exited": true
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4057,
+            "exited": false
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 8888,
+            "exited": true
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 16343,
+            "exited": true
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 17836,
+            "exited": false
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 19001,
+            "exited": false
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 20264,
+            "exited": false
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 22143,
+            "exited": false
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 24432,
+            "exited": false
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 25974,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
