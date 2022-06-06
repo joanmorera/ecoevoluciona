@@ -48,9 +48,9 @@ public class MenuScene : MonoBehaviour
         
     }
 
-    public void Change_INTRO_Menu()
+    public void Change_01_Menu()
     {
-        Change_Menu_To("IntroMenu");
+        Change_Menu_To("01_Menu");
     }
 
     public void Change_MAIN_Menu()
@@ -60,10 +60,15 @@ public class MenuScene : MonoBehaviour
 
     public void Change_MAPECO_Menu()
     {
-        Change_Menu_To("MapEcodependencies");
-        Transform map = this.transform.Find("MapEcodependencies");
+        Change_Menu_To("01_MapEcodependencies");
+        Transform map = this.transform.Find("01_MapEcodependencies");
         if (map != null)
             map.SendMessage("ResetPanel");
+    }
+
+    public void Change_FEELINGWOUNDS_Menu()
+    {
+        Change_Menu_To("01_FeelingWounds");
     }
 
     void Change_Menu_To(string menu)

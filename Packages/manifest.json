@@ -1,5 +1,13 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "iBicha",
+      "url": "https://registry.npmjs.com",
+      "scopes": [ "com.ibicha" ]
+    }
+  ],
   "dependencies": {
+    "com.ibicha.youtube-player": "1.6.0",
     "com.unity.adaptiveperformance": "4.0.0",
     "com.unity.adaptiveperformance.samsung.android": "4.0.0",
     "com.unity.ads": "3.7.5",

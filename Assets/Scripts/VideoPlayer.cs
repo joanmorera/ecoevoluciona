@@ -15,6 +15,13 @@ public class VideoPlayer : MonoBehaviour
     {
         
     }
+
+    public void LoadVideo(string url)
+    {
+        ActivateVideoPlayer(true);
+        //LoadVideo(url);
+    }
+
     public void ActivateVideoPlayer(bool active)
     {
         for(int i=0;i<5;i++)
