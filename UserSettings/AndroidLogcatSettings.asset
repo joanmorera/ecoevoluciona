@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "3300413ac794935f",
         "name": "com.GreenDimension.Ecoevoluciona",
-        "processId": 25974,
+        "processId": 27143,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -78,6 +78,12 @@
             "deviceId": "3300413ac794935f",
             "name": "com.GreenDimension.Ecoevoluciona",
             "processId": 25974,
+            "exited": false
+        },
+        {
+            "deviceId": "3300413ac794935f",
+            "name": "com.GreenDimension.Ecoevoluciona",
+            "processId": 27143,
             "exited": false
         }
     ],
